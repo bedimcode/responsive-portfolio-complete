@@ -1,9 +1,12 @@
 # Responsive Portfolio Complete
 ## [Watch it on youtube](https://youtu.be/owEHlDn0JYQ)
 ### Responsive Portfolio Complete
-Learn how to develop a clean and nice web portfolio, fully mobile first and responsive, for a designer or developer. Includes a side menu bar. At the beginning, your name, links to social networks and an image. Then the About section shows more information about you. Y Contains a list of skills offered.
 
-It also has a part where you show your education studies with a timeline. Then a section where he offers his services and a section on Recent Jobs. And at the bottom you have a contact form, and at the bottom a footer.
+- Responsive Personal Complete Portfolio Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![preview img](/preview.png)
